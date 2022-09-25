@@ -1,4 +1,5 @@
-# Relogio Digital
+# <div align="center">Relogio Digital</div>
  
-# Exibição de data e horas
-![Exibição de data e horas](img.relogio.png)
+<div align="center"> 
+ <img align="center" src="https://github.com/Solarck/Relogio-Digital/blob/main/relogio.png">
+</div>
