@@ -11,7 +11,7 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-    background: url(evangelion-background.gif);
+    background: url(img/evangelion-background.gif);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
