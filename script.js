@@ -37,6 +37,6 @@ ano = data.getFullYear()
 
 meses = new Array('Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro',)
 
-dias = new Array('Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta-Feira', 'Sexta', 'Sabado')
+dias = new Array('Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sabado')
 
 document.getElementById('data').innerHTML = dias[diasemana] + ', ' + dia + ' de  ' + meses[mes] + ' de  ' + ano
